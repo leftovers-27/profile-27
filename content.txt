@@ -1,0 +1,8 @@
+Have an exciting project where you need some help?
+Send me over a message, and let's chat.
+/* Color Theme Swatches in Hex */
+.Graphic-Design-1-hex { color: #D7D7D9; }
+.Graphic-Design-2-hex { color: #162473; }
+.Graphic-Design-3-hex { color: #449CA6; }
+.Graphic-Design-4-hex { color: #038C73; }
+.Graphic-Design-5-hex { color: #BF4011; }
