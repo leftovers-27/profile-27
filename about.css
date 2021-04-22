@@ -1,0 +1,49 @@
+.heading {
+    margin: 0px 0px;
+    text-align: center;
+    color: #d7d7d9;
+    background-color: #BF4011;
+    font-family: 'Acme', sans-serif;
+}
+
+.himanshu img {
+    margin: 5px;
+    border-radius: 10px;
+}
+.gourav {
+    border-radius: 10px;
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+ }
+ .mohit {
+    margin: 5px;
+    border-radius: 10px;
+ }
+
+ .devanshu {
+    border-radius: 10px;
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+ }
+
+ .gaurav {
+    margin: 5px;
+    border-radius: 10px;
+ }
+
+ .izhar{
+    border-radius: 10px;
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+ }
+
+img {
+    width: 200px;
+    height: auto;
+}

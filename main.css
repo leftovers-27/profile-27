@@ -1,6 +1,18 @@
 *{
     background-color: #D7D7D9;
 }
+
+body {
+    display: flex;
+    justify-content: center;
+    /* background: #BF4011; */
+}
+
+main {
+    margin-left: auto;
+    margin-right: auto;
+    padding: auto;
+}
 /* The default size of text in browsers is 16px. */
  #logo {
      text-align: center;
