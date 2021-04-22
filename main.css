@@ -5,7 +5,6 @@
 body {
     display: flex;
     justify-content: center;
-    /* background: #BF4011; */
 }
 
 main {
@@ -13,23 +12,21 @@ main {
     margin-right: auto;
     padding: auto;
 }
+
 /* The default size of text in browsers is 16px. */
  #logo {
      text-align: center;
-      font-size: 400%; /* 400% is Equal to (16*4)px */
-      font-weight: bolder;
-      color: #162473;
-      /* font-family: 'Josefin Sans', sans-serif; */
-      /* font-family: 'Original Surfer', cursive; */
-      font-family: 'Acme', sans-serif;
-      /* font-family: 'Bangers', cursive; */
-        text-shadow: 0px 3px 3px #449CA6;
+     font-size: 400%; /* 400% is Equal to (16*4)px */
+     font-weight: bolder;
+     color: #162473;
+     font-family: 'Acme', sans-serif;
+     text-shadow: 0px 3px 3px #449CA6;
     
     }
 
-    #logo2{
-        color: #449CA6;
-        text-shadow: 0px 3px 3px #162473;
+#logo2{
+    color: #449CA6;
+    text-shadow: 0px 3px 3px #162473;
     }
 
  .nav-container , a:hover, a:focus, a:active {
@@ -94,3 +91,7 @@ main {
     letter-spacing: 5px;
     text-shadow: 0px 3px 3px #162473;
 }
+
+      /* font-family: 'Josefin Sans', sans-serif; */
+      /* font-family: 'Original Surfer', cursive; */
+      /* font-family: 'Bangers', cursive; */
