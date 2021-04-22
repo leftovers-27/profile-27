@@ -1,5 +1,5 @@
 *{
-    background-color: white;
+    background-color: #D7D7D9;
 }
 
 body {
@@ -23,7 +23,14 @@ main {
       /* font-family: 'Original Surfer', cursive; */
       font-family: 'Acme', sans-serif;
       /* font-family: 'Bangers', cursive; */
- }
+        text-shadow: 0px 3px 3px #449CA6;
+    
+    }
+
+    #logo2{
+        color: #449CA6;
+        text-shadow: 0px 3px 3px #162473;
+    }
 
  .nav-container , a:hover, a:focus, a:active {
      position: sticky;
@@ -60,3 +67,30 @@ main {
     padding: 0.5rem 1rem;
     border-radius: 1rem;
  }
+
+ .slogan {
+     font-family:'Acme', sans-serif ;
+     color:  #038C73;
+     font-weight: bold;
+     font-size: 40px;
+     letter-spacing: 5px;
+     text-shadow: 0px 3px 3px #162473;
+ }
+ 
+ .slogan {
+    font-family:'Acme', sans-serif ;
+    color:  #038C73;
+    font-weight: bold;
+    font-size: 40px;
+    letter-spacing: 5px;
+    text-shadow: 0px 3px 3px #162473;
+}
+
+.slogan {
+    font-family:'Acme', sans-serif ;
+    color:  #038C73;
+    font-weight: bold;
+    font-size: 40px;
+    letter-spacing: 5px;
+    text-shadow: 0px 3px 3px #162473;
+}
